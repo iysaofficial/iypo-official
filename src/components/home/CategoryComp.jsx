@@ -14,7 +14,7 @@ const CategoryComp = () => {
                     <div className="category-content">
                         <div>
                             <h3>Senior High School</h3>
-                            <p>Come enter your school in the chemistry olympiad and achieve achievements together</p>
+                            <p>Come enter your school in the physics olympiad and achieve achievements together</p>
                             {/* <a href="#">Read More</a> */}
                         </div>
                     </div>
@@ -27,7 +27,7 @@ const CategoryComp = () => {
                     <div className="category-content">
                         <div>
                             <h3>University</h3>
-                            <p>Join the university chemistry Olympiad and show your skills</p>
+                            <p>Join the university physics Olympiad and show your skills</p>
                             {/* <a href="#">Read More</a> */}
                         </div>
                     </div>
