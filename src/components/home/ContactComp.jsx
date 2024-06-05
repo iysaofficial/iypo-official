@@ -16,7 +16,7 @@ const ContactComp = () =>{
                         </li>
                         <li>
                             <i className="fa-solid fa-envelope"></i>
-                            <span></span><a href="mailto:youngscientist.iysa@gmail.com" target="_blank">youngscientist.iysa@gmail.com</a>
+                            <span></span><a href="mailto:yf.olympiad@gmail.com" target="_blank">yf.olympiad@gmail.com</a>
                         </li>
                         <li>
                             <i className="fas fa-phone-alt"></i>
