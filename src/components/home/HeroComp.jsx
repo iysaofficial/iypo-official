@@ -12,7 +12,7 @@ const HeroComp = () => {
                 </p>
                 <br />
                 <br />
-                <a href="https://registrasi-iypo.vercel.app/" target="_blank" className="registration-button">Registration</a>
+                <a href="#" className="registration-button">Closed Registration</a>
                 
                 <div className="hero-social-icon">
                     <br />
