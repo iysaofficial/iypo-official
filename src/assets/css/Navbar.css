@@ -64,7 +64,7 @@ header .navigation .menu{
 
 .menu-item .sub-menu{
     position: absolute;
-    background: #02adee;
+    background: #FFC94A;
     top: 74px;
     line-height: 40px;
     list-style: none;
@@ -98,7 +98,7 @@ header .navigation .menu{
 }
 
 .menu-item .sub-menu .sub-item:hover{
-    background: #4080ef;
+    background: #FF9800;
 }
 
 .menu-item .sub-menu .sub-item:hover:last-child:hover{
@@ -134,7 +134,7 @@ header .navigation .menu{
 }
 
 .more .more-menu .more-item:hover{
-    background: #4080ef;
+    background: #FF9800;
 }
 
 .menu-btn{
