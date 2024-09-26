@@ -5,6 +5,7 @@ import LogoComp from "../../components/home/LogoComp"
 import NewsletterComp from "../../components/home/NewsletterComp"
 import ContactComp from "../../components/home/ContactComp"
 import '../../assets/css/home/Home.css'
+import AfterEventComp from "../../components/home/AfterEventComp"
 
 const HomePage = () => {
     return(
@@ -15,8 +16,9 @@ const HomePage = () => {
         <HeroComp/>
         <AboutComp/>
         <CategoryComp></CategoryComp>
-        <ContactComp></ContactComp>
+        <AfterEventComp></AfterEventComp>
         <NewsletterComp></NewsletterComp>
+        <ContactComp></ContactComp>
         <LogoComp></LogoComp>
         </>
     )
