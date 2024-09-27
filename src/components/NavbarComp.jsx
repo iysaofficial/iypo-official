@@ -57,6 +57,12 @@ const NavbarComp = () =>{
                         </ul>
                     </li> */}
                     <li className='menu-item'>
+                        <a className='sub-btn' href="#">Media Coverage <i className='fas fa-angle-down'></i></a>
+                        <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/1Kf-TDvAVoVyKQCjkXfioeJAMS4bZZYAA/view?usp=sharing" target='_blank'>Press Release 2024</a></li>
+                        </ul>
+                    </li>
+                    <li className='menu-item'>
                         <a className='sub-btn' href="#">List of Winner <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1OHHZIEE0Ge9gYCBDjHNZWtlT8_3LJYsw/view?usp=drive_link" target='_blank'>List of Winner 2024</a></li>
