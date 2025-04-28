@@ -56,27 +56,27 @@ const NavbarComp = () =>{
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/1XiQPYXktmf47cO6g1sZ9HfprPE6A-5Ok" target='_blank'>IYEO 2023</a></li>
                         </ul>
                     </li> */}
-                    <li className='menu-item'>
+                    {/* <li className='menu-item'>
                         <a className='sub-btn' href="#">Media Coverage <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1xtNRUdpRV1YpfkqCYINwnbG83y-La-bU/view?usp=sharing" target='_blank'>Press Release 2025</a></li>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1Kf-TDvAVoVyKQCjkXfioeJAMS4bZZYAA/view?usp=sharing" target='_blank'>Press Release 2024</a></li>
                         </ul>
-                    </li>
+                    </li> */}
                     <li className='menu-item'>
-                        <a className='sub-btn' href="#">List of Winner <i className='fas fa-angle-down'></i></a>
-                        <ul className='sub-menu'>
+                        <a className='sub-btn' href="/ListOfWinnerAllPage">List of Winner </a>
+                        {/* <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1meitaaKMwMl4AfWtJJiNssN-ixlTTLyS/view?usp=sharing" target='_blank'>List of Winner 2025</a></li>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1OHHZIEE0Ge9gYCBDjHNZWtlT8_3LJYsw/view?usp=drive_link" target='_blank'>List of Winner 2024</a></li>
-                        </ul>
+                        </ul> */}
                     </li>
-                    <li className='menu-item'>
+                    {/* <li className='menu-item'>
                         <a className='sub-btn' href="#">Curation <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/1OtPQULlba4DFS5OeiOUkLvSDELngdHpc?usp=sharing" target='_blank'>Curation 2025</a></li>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/1D1zF3ENJ8n9pHJ8b8pCZEFLVSpXxEhUk?usp=sharing" target='_blank'>Curation 2024</a></li>
                         </ul>
-                    </li>
+                    </li> */}
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Certificate Supervisor <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
